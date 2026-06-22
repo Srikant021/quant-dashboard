@@ -1,18 +1,8 @@
 streamlit
-scikit-learn
 yfinance
-fyers-apiv3
 pandas
 numpy
-matplotlib
-scipy
-arch
 plotly
-statsmodels
-xgboost
-python-telegram-bot
-pyyaml
-seaborn
 
 
 
